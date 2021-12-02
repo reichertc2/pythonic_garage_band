@@ -1,4 +1,4 @@
-from pythonic_garage_band import __version__
+from pythonic_garage_band_cli import __version__
 
 
 def test_version():
